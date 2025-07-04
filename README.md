@@ -1,4 +1,5 @@
 🛡️ Intrusion Detection System (IDS) for Zero-Day Attacks 🚀
+
 Welcome to the Intrusion Detection System (IDS) project! This innovative system uses machine learning to detect zero-day attacks by analyzing network traffic flow. Built with four powerful models—CNN, LSTM, XGBoost, and Random Forest—it predicts whether traffic is benign or an attack. The project also features a user-friendly Streamlit frontend with two sections: one for viewing model metrics and another for testing with custom datasets, complete with interactive pie charts! 📊
 
 🌟 Project Overview
