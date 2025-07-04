@@ -1,0 +1,5 @@
+﻿Model,Accuracy,Precision,Recall,F1-Score
+Random Forest,1,0,0,0
+XGBoost,0.98,0,0,0
+CNN,0,0,0,0
+LSTM,1,0,0,0
